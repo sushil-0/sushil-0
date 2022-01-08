@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![stats](https://github-readme-stats.vercel.app/api?username=sushil-0&count_private=true&show_icons=true&theme=gruvbox)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-0&langs_count=6&layout=compact&theme=gruvbox)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-0&langs_count=5&layout=compact&theme=gruvbox)
