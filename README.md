@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working at [WLPayments](https://www.linkedin.com/company/wlpayments/mycompany/)
-- 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/sushil--kumar/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sushil--kumar/)
 
 <!--
 **sushil-0/sushil-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
