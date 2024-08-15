@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About Me
 <!-- ### Hi there 👋 -->
-- 🔭 I’m currently working at [WLPayments](https://www.linkedin.com/company/wlpayments/mycompany/)
+- 🔭 I’m currently working at [Celeris](https://www.linkedin.com/company/celeris-wlpayments/mycompany/)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sushil--kumar/)
 
 ## 📊 Github Stats
